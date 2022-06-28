@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal\bin\Debug\netstandard2.0\BMICalculatorReal.deps.json
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal\bin\Debug\netstandard2.0\BMICalculatorReal.dll
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal\bin\Debug\netstandard2.0\ref\BMICalculatorReal.dll
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal\bin\Debug\netstandard2.0\BMICalculatorReal.pdb
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal\obj\Debug\netstandard2.0\BMICalculatorReal.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal\obj\Debug\netstandard2.0\BMICalculatorReal.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal\obj\Debug\netstandard2.0\BMICalculatorReal.AssemblyInfo.cs
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal\obj\Debug\netstandard2.0\BMICalculatorReal.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal\obj\Debug\netstandard2.0\BMICalculatorReal.dll
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal\obj\Debug\netstandard2.0\ref\BMICalculatorReal.dll
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal\obj\Debug\netstandard2.0\BMICalculatorReal.pdb

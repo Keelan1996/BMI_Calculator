@@ -1,0 +1,1 @@
+C:\Users\Dell\source\repos\BMICalculatorReal\BMICalculatorReal\BMICalculatorReal.UWP\BMICalculatorReal.UWP.csproj;x86
